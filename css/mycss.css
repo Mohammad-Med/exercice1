@@ -1,0 +1,14 @@
+#status{
+    color:white;
+    padding: 2%;
+    border-radius:3px;
+    text-align: center;
+}
+
+#bt{
+    margin-right: 1px;
+}
+
+.modal{
+    margin-left: 3%;
+}
